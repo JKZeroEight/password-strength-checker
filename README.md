@@ -1,16 +1,9 @@
- awareness so you can learn about password strength and cybersecurity awareness.
 # Password Strength Checker
 
-A beginner Python project that checks the strength of a password.
+A beginner-friendly Python project that evaluates password strength based on:
+- length
+- uppercase letters
+- lowercase letters
+- numbers
 
-## Features
-- Checks password length
-- Checks uppercase letters
-- Checks lowercase letters
-- Checks numbers
-
-## Technologies
-- Python 3
-
-## Author
-Jackson Chhetri
+It gives a rating: Weak / Medium / Strong.
