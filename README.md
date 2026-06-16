@@ -1,2 +1,16 @@
-# password-strength-checker
-This Python project is really good for people who're new to Python. It checks how strong your password is. It looks at things like how your password is, if you have uppercase letters, lowercase letters, numbers and special characters. The program tells you away if your password is good or not. It says if your password is Weak, Medium or Strong. This helps people make passwords and understand how to keep their information safe on the internet. The project is, about password strength and cybersecurity awareness so you can learn about password strength and cybersecurity awareness.
+ awareness so you can learn about password strength and cybersecurity awareness.
+# Password Strength Checker
+
+A beginner Python project that checks the strength of a password.
+
+## Features
+- Checks password length
+- Checks uppercase letters
+- Checks lowercase letters
+- Checks numbers
+
+## Technologies
+- Python 3
+
+## Author
+Jackson Chhetri
